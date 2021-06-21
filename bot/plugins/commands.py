@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💎 Our Group 💎', url="https://t.me/kiswa_e_library"
+                                    '💎 Our Group 💎', url="https://t.me/kiswa_e_library"/n 'Developers', url="https://t.me/raeeskalanthode"
                                 )
                         ]
                     ]
